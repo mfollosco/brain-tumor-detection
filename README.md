@@ -15,3 +15,5 @@
         └──images
         
         └──labels
+
+To set up the structure, simply download the files dataset from this link https://www.kaggle.com/datasets/ultralytics/brain-tumor/data, and unzip the folder, placing this in your folder for these notebooks.
